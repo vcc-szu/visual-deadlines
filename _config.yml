@@ -1,15 +1,18 @@
-title: AI Conference Deadlines # (Maintained by @abhshkdz)
+title: Visual Computing Conference Deadlines # (Maintained by @abhshkdz)
 # email: abhshkdz@vt.edu
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
+description: Countdowns to top CG/CV/VIS/ML/Robotics/AI conference deadlines
 author: Abhishek Das
 
-domain: "aideadlin.es"
+domain: "ddl.vcc.tech"
 baseurl: ""
 
-twitter_username: abhshkdz
-twitter_hashtag: machinelearning
-github_username: abhshkdz
-github_repo: ai-deadlines
+host                : 0.0.0.0
+port                : 8001
+
+twitter_username: qheldiv
+twitter_hashtag: computergraphics
+github_username: vcc-szu
+github_repo: visual-deadlines
 
 markdown: kramdown
 ga_id: UA-36274081-2

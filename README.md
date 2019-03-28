@@ -1,6 +1,6 @@
-## AI Deadlines ![](https://travis-ci.com/abhshkdz/ai-deadlines.svg?branch=gh-pages)
+## Visual Computing Deadlines ![](https://travis-ci.com/abhshkdz/ai-deadlines.svg?branch=gh-pages)
 
-Countdown timers to keep track of a bunch of CV/NLP/ML/RO conference deadlines.
+Countdown timers to keep track of a bunch of CG/CV/VIS/ML/RO conference deadlines.
 
 ## Adding/updating a conference
 
